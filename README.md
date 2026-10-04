@@ -1,5 +1,5 @@
 <!-- Wave divider --> 
-<p align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=NAILA%20JAVED&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Mern%20Stack%20Development&descSize=18&descAlignY=55" width="100%"/> <p align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </p> 
+<p align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=NAILA%20JAVED&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Mern%20Stack%20Development&descSize=18&descAlignY=55" width="100%"/> <p align="center"> </p> 
 <!--banner-->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> </h3> 
 <p align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </p> 
