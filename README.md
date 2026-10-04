@@ -19,7 +19,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 </p>
 <!-- Banner --> 
-<img src="https://cdnb.artstation.com/p/assets/images/images/029/462/049/original/pixel-jeff-waiting-ll-2.gif?1597639898" width="100%"/> 
 
 ### 💻 Technology Stack 
 <p align="center"> 
