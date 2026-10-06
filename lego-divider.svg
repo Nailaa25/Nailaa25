@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="70" viewBox="0 0 800 70">
+  <style>
+    .b { animation: hop 1.6s ease-in-out infinite; }
+    .b2 { animation-delay: .2s; } .b3 { animation-delay: .4s; }
+    .b4 { animation-delay: .6s; } .b5 { animation-delay: .8s; }
+    @keyframes hop { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
+  </style>
+  <g class="b"><rect x="75" y="30" width="120" height="30" rx="3" fill="#D01012"/><rect x="97" y="22" width="20" height="8" rx="3" fill="#D01012"/><rect x="153" y="22" width="20" height="8" rx="3" fill="#D01012"/></g>
+  <g class="b b2"><rect x="205" y="30" width="120" height="30" rx="3" fill="#F5CD30"/><rect x="227" y="22" width="20" height="8" rx="3" fill="#F5CD30"/><rect x="283" y="22" width="20" height="8" rx="3" fill="#F5CD30"/></g>
+  <g class="b b3"><rect x="335" y="30" width="120" height="30" rx="3" fill="#0055BF"/><rect x="357" y="22" width="20" height="8" rx="3" fill="#0055BF"/><rect x="413" y="22" width="20" height="8" rx="3" fill="#0055BF"/></g>
+  <g class="b b4"><rect x="465" y="30" width="120" height="30" rx="3" fill="#237841"/><rect x="487" y="22" width="20" height="8" rx="3" fill="#237841"/><rect x="543" y="22" width="20" height="8" rx="3" fill="#237841"/></g>
+  <g class="b b5"><rect x="595" y="30" width="120" height="30" rx="3" fill="#FE8A18"/><rect x="617" y="22" width="20" height="8" rx="3" fill="#FE8A18"/><rect x="673" y="22" width="20" height="8" rx="3" fill="#FE8A18"/></g>
+</svg>
